@@ -1,0 +1,38 @@
+05-14-2024 @ 18:24:55 - ---[ New export started at 2024-05-14 15:24:55 ] PHP Memory: 128 Б, WP Memory: 40 МБ
+05-14-2024 @ 18:24:55 - Backup process initiated..
+05-14-2024 @ 18:24:55 - Checking database connection
+05-14-2024 @ 18:24:55 - Database connection successfully established
+05-14-2024 @ 18:24:55 - Database backup process initialized...
+05-14-2024 @ 18:24:55 - Database backup directory successfully created
+05-14-2024 @ 18:24:55 - Database backup process started..
+05-14-2024 @ 18:24:55 - Limit: 1 Offset 0
+05-14-2024 @ 18:24:55 - Total 1 database tables checkpoints ready for export
+05-14-2024 @ 18:24:55 -  Table wp_commentmeta exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_comments exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_links exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_options exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_postmeta exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_posts exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_term_relationships exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_term_taxonomy exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_termmeta exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_terms exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_usermeta exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_users exporting ..
+05-14-2024 @ 18:24:55 -  Table wp_wt_mgdp_ftp exporting ..
+05-14-2024 @ 18:24:55 - 1 out of 1 tables checkpoint exported.
+05-14-2024 @ 18:24:55 - 1 out of 1 tables checkpoint exported.
+05-14-2024 @ 18:24:55 - Database backup process completed
+05-14-2024 @ 18:24:55 - DB split compleited.
+05-14-2024 @ 18:24:56 - Files and directories prepared for backup...
+05-14-2024 @ 18:24:56 - Using PclZip module to create the backup
+05-14-2024 @ 18:24:56 - Starting compression process...
+05-14-2024 @ 18:24:56 - Total files:1 Total directorys:4
+05-14-2024 @ 18:24:56 - 1 files exported.
+05-14-2024 @ 18:24:57 - 1 out of 4 directory checkpoint exported.
+05-14-2024 @ 18:24:58 - 2 out of 4 directory checkpoint exported.
+05-14-2024 @ 18:24:59 - 3 out of 4 directory checkpoint exported.
+05-14-2024 @ 18:25:00 - 4 out of 4 directory checkpoint exported.
+05-14-2024 @ 18:25:00 -  Database backup directory removed sucessfully
+05-14-2024 @ 18:25:00 - Backup completed successfully!
+05-14-2024 @ 18:25:00 - ---[ Export Ended at 2024-05-14 15:25:00 ] --- 

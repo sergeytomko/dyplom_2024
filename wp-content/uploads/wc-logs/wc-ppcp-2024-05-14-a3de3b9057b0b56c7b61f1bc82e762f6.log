@@ -1,0 +1,73 @@
+2024-05-14T16:15:45+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.paypal.com/v1/notifications/webhooks
+    [method] => POST
+    [http_status] => 400
+    [request] => Array
+(
+    [url] => http://127.0.0.1:8888/dyplom/wp-json/wc-ppcp/v1/webhook/production
+    [event_types] => Array
+        (
+            [0] => Array
+                (
+                    [name] => PAYMENT.CAPTURE.COMPLETED
+                )
+
+            [1] => Array
+                (
+                    [name] => PAYMENT.CAPTURE.DENIED
+                )
+
+            [2] => Array
+                (
+                    [name] => PAYMENT.CAPTURE.REFUNDED
+                )
+
+            [3] => Array
+                (
+                    [name] => CHECKOUT.ORDER.APPROVED
+                )
+
+            [4] => Array
+                (
+                    [name] => CHECKOUT.ORDER.PROCESSED
+                )
+
+            [5] => Array
+                (
+                    [name] => CUSTOMER.DISPUTE.CREATED
+                )
+
+            [6] => Array
+                (
+                    [name] => CUSTOMER.DISPUTE.RESOLVED
+                )
+
+        )
+
+)
+
+    [error] => Array
+        (
+            [name] => VALIDATION_ERROR
+            [message] => Invalid data provided
+            [debug_id] => 5282a568c0ffe
+            [information_link] => https://developer.paypal.com/docs/api/webhooks/#errors
+            [details] => Array
+                (
+                    [0] => Array
+                        (
+                            [field] => url
+                            [location] => body
+                            [issue] => Not a valid webhook URL
+                        )
+
+                )
+
+            [links] => Array
+                (
+                )
+
+        )
+
+)
